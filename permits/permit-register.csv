@@ -1,0 +1,6 @@
+sequence,permit_id,district,venue,applicant,status
+1,PM-101,River,Quay Cafe,Amaya Ortiz,OPEN
+2,PM-102,Central,North Library,City Library,OPEN
+3,PM-103,Old Town,Maritime Museum,Harbor Trust,ARCHIVED
+4,PM-104,West,Community Garden,Green Block,OPEN
+5,PM-105,South,Atlas Studio,Nora Chen,OPEN
