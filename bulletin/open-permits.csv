@@ -1,0 +1,5 @@
+sequence,permit_id,district,venue,applicant,service_state,effective_inspection_id,effective_date,effective_score
+1,PM-101,River,Quay Cafe,Amaya Ortiz,CLEARED,IN-214,2026-10-07,84
+2,PM-102,Central,North Library,City Library,CLEARED,IN-203,2026-10-06,81
+4,PM-104,West,Community Garden,Green Block,REMEDIATION_REQUIRED,IN-206,2026-10-02,45
+5,PM-105,South,Atlas Studio,Nora Chen,UNINSPECTED,,,
